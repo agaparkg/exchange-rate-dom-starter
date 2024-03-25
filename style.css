@@ -50,6 +50,7 @@ p {
 }
 
 .currency select {
+  width: 80px;
   padding: 10px 20px 10px 10px;
   -moz-appearance: none;
   -webkit-appearance: none;
